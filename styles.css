@@ -15,18 +15,19 @@
 }
 
 .skip {
-  position: fixed;
-  top: -200px;
-  background: #2E24A8green;
+  background: green;
   color: #fff;
-  text-decoration: none;
-  padding: 10px;
-  display: inline-block;
-  
-  &:focus {
-    top: 0;
-  }
+  height: 30px;
+  left: 50%;
+  padding: 8px;
+  position: absolute;
+  transform: translateY(-100%);
+  transition: transform 0.3s;
 }
+
+.skip:focus {
+    transform: translateY(0%);
+  }
 
 header {
   display: flex;
