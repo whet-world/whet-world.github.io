@@ -11,21 +11,17 @@
 }
 
 .skip {
-  position: absolute;
-  left: -10000px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
-
-.skip:focus {
-  top: 0;
-  position: static;
-  width: auto;
-  height: auto;
-  width: 200px;
-  height: 80px;
+  position: fixed;
+  top: -200px;
+  background: #2E24A8green;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  
+  &:focus {
+    top: 0;
+  }
 }
 
 header {
