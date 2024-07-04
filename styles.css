@@ -16,3 +16,8 @@ header {
   font-family: "Helvetica";
 }
 
+h1 {
+  font-size: 2em;
+  font-family: "Helvetica";
+  padding: 0.5em 0;
+}
