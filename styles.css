@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'bifocalsregular';
+    src: url('/css/fonts/bifocals-webfont.woff2') format('woff2'),
+         url('/css/fonts/bifocals-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -45,7 +53,7 @@ header {
   color: #292929;
   font-size: 2.5em;
   padding: 0 1em;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
 }
 
 .logo a {
@@ -67,7 +75,7 @@ header {
 }
 
 .navbar a {
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   color: #000;
 }
 
@@ -79,7 +87,7 @@ header {
 .button1 {
   color: #fff;
   font-size: 1.2em;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   background-color: #2e24a8;
   padding: 0.5em 1.5em;
   border-radius: 50px;
@@ -103,19 +111,19 @@ header {
 
 h1 {
   font-size: 2em;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   padding: 0.5em 0;
 }
 
 .strapline {
   font-size: 1.4em;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   padding: 0.5em 0;
 }
 
 p {
   font-size: 1.2em;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   padding: 0 0;
 }
 
@@ -183,7 +191,7 @@ p {
 .button2 {
   color: #000;
   font-size: 1.2em;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   background-color: #eaff67;
   padding: 0.5em 1.5em;
   border-radius: 50px;
@@ -218,13 +226,13 @@ footer {
   background-color: #292929;
   padding: 4em;
   color: #fff;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1em;
 }
 
 .footer-nav a {
   color: #fff;
-  font-family: "Helvetica";
+  font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1em;
   padding: 4em;
   text-decoration: underline
