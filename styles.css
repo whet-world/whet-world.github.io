@@ -23,6 +23,7 @@ header {
 }
 
 .logo {
+  color: #292929;
   font-size: 2.5em;
   padding: 0 1em;
   font-family: "Helvetica";
@@ -30,6 +31,7 @@ header {
 
 .logo a {
   text-decoration: none;
+  color: #292929;
 }
 
 .navbar {
