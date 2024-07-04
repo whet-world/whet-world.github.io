@@ -1,3 +1,9 @@
+.wrapper {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -14,6 +20,53 @@ header {
   font-size: 2.5em;
   padding: 0 1em;
   font-family: "Helvetica";
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3em;
+}
+
+.nav-link {
+  padding: 0px 1.4em;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.navbar a {
+  font-family: "Helvetica";
+  color: #000;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.button1 {
+  color: #fff;
+  font-size: 1.2em;
+  font-family: "Helvetica";
+  background-color: #2e24a8;
+  padding: 0.5em 1.5em;
+  border-radius: 50px;
+  border: none;
+  margin: 0px 00px 0px 20px;
+}
+
+.button1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.button1 a:hover {
+  text-decoration: none;
+}
+
+.button1:hover {
+  background-color: #000;
+  transition: 0.7s ease;
 }
 
 h1 {
