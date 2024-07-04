@@ -54,6 +54,7 @@ header {
 
 .navbar a:hover {
   text-decoration: underline;
+  text-decoration-style: wavy;
 }
 
 .button1 {
@@ -206,6 +207,11 @@ footer {
   color: #fff;
   font-family: "Helvetica";
   font-size: 1em;
+}
+
+.footer-nav a:hover {
+text-decoration: underline;
+  text-decoration-style: wavy;
 }
 
 .copyright {
