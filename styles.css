@@ -29,6 +29,7 @@
   height: 3em;
   padding: 0.5em;
   position: absolute;
+    left: 0%;
   transform: translateY(-100%);
 z-index: 5;
 }
