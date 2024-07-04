@@ -23,6 +23,8 @@
   position: static;
   width: auto;
   height: auto;
+  width: 200px;
+  height: 80px;
 }
 
 header {
