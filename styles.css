@@ -208,11 +208,12 @@ footer {
   font-family: "Helvetica";
   font-size: 1em;
   padding: 4em;
+  text-decoration: underline
 }
 
 .footer-nav a:hover {
-text-decoration: underline;
-  text-decoration-style: wavy;
+text-decoration: none;
+  color: #EAFF67;
 }
 
 .copyright {
