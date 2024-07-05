@@ -86,21 +86,28 @@ header {
   text-decoration-style: wavy;
 }
 
-.button1 a {
+.button1 {
   color: #fff;
   font-size: 1.2em;
-  font-family: 'bifocalsregular', Arial, sans-serif;
+  font-family: "Helvetica";
   background-color: #2e24a8;
   padding: 0.5em 1.5em;
   border-radius: 50px;
   border: none;
   margin: 0px 00px 0px 20px;
-    text-decoration: none;
+}
+
+.button1 a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .button1 a:hover {
   text-decoration: none;
-    background-color: #000;
+}
+
+.button1:hover {
+  background-color: #000;
   transition: 0.7s ease;
 }
 
