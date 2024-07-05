@@ -23,20 +23,18 @@
 }
 
 .skip {
-  background: green;
-    font-size; 1.5em;
+  position: fixed;
+  top: -200px;
+  background-color: #1CF95A;
   color: #fff;
-  height: 3em;
-  padding: 0.5em;
-  position: absolute;
-  transform: translateY(-100%);
-z-index: 5;
+  font-family: 'bifocalsregular', Arial, sans-serif;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
 }
 
 .skip:focus {
-    transform: translateY(0%);
-    top: 0%;
-left: 0%;
+    top: 0;
   }
 
 header {
