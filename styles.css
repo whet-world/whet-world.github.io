@@ -458,8 +458,8 @@ flex-direction: column;
 
 .photo2 {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-direction: row;
     order: 2;
     height: auto;
     right: 0;
