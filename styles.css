@@ -451,6 +451,7 @@ flex-direction: column;
 
 .event-info {
  align-items: center;
+    order: 2;
 }
 
     .button2 {
@@ -459,9 +460,8 @@ flex-direction: column;
 .photo2 {
   flex-wrap: nowrap;
     flex-direction: row;
-    order: 2;
+    order: 3;
     height: auto;
-    right: 0;
     width: 100%;
 }
 
