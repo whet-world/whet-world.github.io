@@ -438,7 +438,7 @@ footer p {
 /* Section 2 Column */
 @media screen and (max-width: 970px) {
 .event {
-flex-direction: row; 
+flex-direction: column; 
 }
 
 .live-event {
@@ -458,8 +458,8 @@ flex-direction: row;
 
 .photo2 {
   display: flex;
-  flex-wrap: nowrap;
-  flex-direction: row;
+  flex-wrap: wrap;
+  flex-direction: column;
     order: 2;
     height: auto;
     right: 0;
