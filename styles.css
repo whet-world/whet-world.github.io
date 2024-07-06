@@ -333,7 +333,7 @@ p {
 
 .intro {
     flex-direction: row;
-    width: 70%;
+    min-width: 70%;
 }
 
 .photo1 {
