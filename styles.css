@@ -349,8 +349,7 @@ p {
 }
 
 .event {
-flex-direction: column;
-    flex-wrap: wrap;
+
 }
 
 .live-event {
@@ -388,7 +387,7 @@ flex-direction: column;
   flex-wrap: wrap;
   flex-direction: column;
     order: 2;
-    max-width: 300px;
+    max-width: 500px;
     height: auto;
     right: 0;
     width: 30%
