@@ -250,10 +250,11 @@ footer {
 }
 
 footer p {
-  font-size: 1.5em;
+  font-size: 1em;
   font-family: 'bifocalsregular', Arial, sans-serif;
   text-align: center;
   color: #fff;
+  margin: 3em;
 }
 
 .footer-nav a {
