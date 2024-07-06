@@ -333,13 +333,13 @@ p {
 
 .intro {
     flex-direction: row;
-    flex: 1;
+    flex: 2;
     width: 70%;
 }
 
 .photo1 {
   width: 30%;
-    flex: 2;
+    flex: 1;
   height: auto;
 }
 
