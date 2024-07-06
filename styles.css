@@ -479,7 +479,21 @@ width: 50%;
 
     /* Small devices such as large phones*/
 @media screen and (max-width: 750px) {
-h1 {
+
+    header {
+  padding: 1em 0.5em;
+}
+
+.logo {
+  font-size: 1.2em;
+  padding: 0 0.5em;
+}
+
+.navbar {
+  padding: 0 1em;
+}    
+    
+    h1 {
   font-size: 1em;
 margin: 0.8em 0 0.8em 0;
 }
