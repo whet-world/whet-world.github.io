@@ -438,14 +438,14 @@ footer p {
 /* Section 2 Column */
 @media screen and (max-width: 970px) {
 .event {
-flex-direction: column;
+flex-direction: column; 
 }
 
 .live-event {
   order: 1;
     align-items: center;
   flex-direction: column;
-  padding: 10%;
+  padding: 5% 10%;
     width: 100%
 }
 
