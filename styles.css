@@ -191,7 +191,7 @@ p {
   padding: 0.5em 1.5em 0.4em 1.5em;
   border-radius: 50px;
   border: none;
-  margin: 0px 0px 0px 0px;
+  margin: 1em 0px 0px 0px;
 }
 
 .button2 a {
@@ -226,7 +226,7 @@ p {
   color: #000;
     font-size: 1em;
   text-align: center;
-  padding: 2em;
+  padding: 2em 0em 1em 0em;
 }
 
 .social a {
