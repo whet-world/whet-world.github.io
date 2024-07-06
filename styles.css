@@ -341,6 +341,7 @@ p {
   width: 30%;
   height: auto;
     padding: 0;
+    max-width: 30%;
 }
 
 .photo1 img {
