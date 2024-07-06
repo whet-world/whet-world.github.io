@@ -357,7 +357,7 @@ p {
     align-items: left;
   flex-direction: column;
   padding: 5%;
-    width: 70%
+    width: 60%
 }
 
 .event-info {
@@ -390,7 +390,7 @@ p {
     max-width: 500px;
     height: auto;
     right: 0;
-    width: 30%
+    width: 40%
 }
 
 .photo2 img {
