@@ -350,9 +350,7 @@ p {
 }
 
 .event {
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
+
 }
 
 .live-event {
@@ -389,7 +387,6 @@ p {
   flex-wrap: wrap;
   flex-direction: column;
     order: 2;
-  width: 100%;
 }
 
 .photo2 img {
