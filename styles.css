@@ -333,18 +333,16 @@ p {
 
 .intro {
     flex-direction: row;
-    flex: 2;
-    width: 70%;
+    width: 100%;
 }
 
 .photo1 {
   width: 30%;
-    flex: 1;
   height: auto;
 }
 
 .photo1 img {
- 
+ width: 70%;
 }
 
 .about {
