@@ -20,6 +20,7 @@
 
 :focus-visible {
  background-color: #008545;
+    color: #fff;
 }
 
 .skip {
