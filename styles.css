@@ -257,11 +257,11 @@ footer p {
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1em;
   margin: 3em;
+    text-decoration: underline;
 }
 
 .footer-nav a:hover {
-  text-decoration: underline;
-  transition: 0.7s ease;
+  text-decoration: none;
 }
 
 .copyright {
