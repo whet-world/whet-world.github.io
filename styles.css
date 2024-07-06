@@ -193,6 +193,7 @@ flex-direction: column;
   border-radius: 50px;
   border: none;
   margin: 1em 0px 0px 0px;
+    display: inline-block;
 }
 
 .button2 a {
