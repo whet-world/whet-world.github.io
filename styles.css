@@ -161,7 +161,7 @@ p {
 .about {
   flex: 2;
   max-width: 70%;
-  padding: 7% 5% 0 5%;
+  padding: 5% 5% 0 5%;
   box-sizing: border-box;
 }
 
@@ -345,8 +345,7 @@ p {
 }
 
 .about {
-  width: 70%;
-  padding: 10% 5% 5% 5%;
+
 }
 
 .event {
@@ -358,6 +357,7 @@ p {
     align-items: left;
   flex-direction: column;
   padding: 5%;
+    width: 50%
 }
 
 .event-info {
@@ -390,6 +390,7 @@ p {
     max-width: 300px;
     height: auto;
     right: 0;
+    width: 50%
 }
 
 .photo2 img {
