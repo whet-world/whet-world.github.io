@@ -286,7 +286,7 @@ footer p {
 }
 
 /* Medium devices such as tablets*/
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
 
     header {
   padding: 1.5em 0.8em;
