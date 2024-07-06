@@ -308,6 +308,7 @@ flex-direction: column;
 }
 
     .about {
+        order: 1;
        display: flex;
 flex-wrap: wrap;
 flex-direction: column; 
@@ -315,6 +316,7 @@ flex-direction: column;
 
     .photo1
     {
+        order: 2;
         width: 100%;
     }
     
@@ -324,9 +326,17 @@ display: flex;
   flex-direction: column;
     width: 100%;
 }
+
+    .live-event{
+       order: 1;
+        flex-wrap: wrap;
+  flex-direction: column;
+        flex: 1;
+    }
     
 .photo2 {
-  display: flex;
+  order: 2;
+    display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   flex: 1;
