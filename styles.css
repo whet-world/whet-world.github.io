@@ -218,7 +218,7 @@ p {
 .social {
   background-color: #eaff67;
   color: #000;
-    font-size: 1.5em;
+    font-size: 1em;
   text-align: center;
   padding: 2em 0 1.8em 0;
 }
@@ -238,7 +238,7 @@ footer {
   flex-direction: column;
   align-items: center;
   background-color: #292929;
-  padding: 4em 8em 1em 8em;
+  padding: 4em 25em 1em 25em;
   color: #fff;
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1em;
