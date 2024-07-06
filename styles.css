@@ -177,6 +177,7 @@ p {
 .live-event {
   display: flex;
   flex-wrap: wrap;
+flex-direction: column;
   align-items: left;
   padding: 1em 5em 1em 5em;
   width 50%;
