@@ -512,6 +512,22 @@ font-size: 0.8em;
     margin: 0.8em 0 0.3em 0;
 }
 
+    .intro {
+  display: flex;
+  flex-wrap: wrap;
+flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
+
+    .photo1 {
+order: 2;
+    }
+
+    .about {
+order: 1;
+    }
+
 .strapline {
   font-size: 0.8em;
   padding: 0 0 0.5em 0;
