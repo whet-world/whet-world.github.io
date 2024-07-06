@@ -312,12 +312,12 @@ footer p {
 }
 
 h1 {
-  font-size: 1.8em;
+  font-size: 1.5em;
 margin: 0.8em 0 0.8em 0;
 }
 
 h2 {
-font-size: 1em;
+font-size: 1.2em;
     margin: 0.8em 0 0.3em 0;
 }
 
@@ -327,7 +327,7 @@ font-size: 1em;
 }
 
 p {
-  font-size: 0.8em;
+  font-size: 1em;
   margin: 0 0 0.8em 0;
 }
 
@@ -387,6 +387,7 @@ p {
   flex-wrap: wrap;
   flex-direction: column;
     order: 2;
+    max-height: 300px;
 }
 
 .photo2 img {
