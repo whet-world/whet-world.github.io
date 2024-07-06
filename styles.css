@@ -161,7 +161,7 @@ p {
 .about {
   flex: 3;
   max-width: 70%;
-  padding: 5% 5% 0 5%;
+  padding: 5% 5% 0 10%;
   box-sizing: border-box;
 }
 
