@@ -494,8 +494,13 @@ width: 50%;
 }   
     .nav-link {
     padding: 0px 1em;
-  font-size: 1em;
+  font-size: 0.8em;
     }
+
+    .button1 {
+  font-size: 0.8em;
+  margin: 0px 00px 0px 5px;
+}
     
     h1 {
   font-size: 1em;
