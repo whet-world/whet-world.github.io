@@ -435,7 +435,45 @@ footer p {
 }
 
 
-/* Small devices such as large phones*/
+/* Section 2 Column */
+@media screen and (max-width: 970px) {
+.event {
+flex-direction: column;
+}
+
+.live-event {
+  order: 1;
+    align-items: center;
+  flex-direction: column;
+  padding: 10%;
+    width: 100%
+}
+
+.event-info {
+ align-items: center;
+}
+
+.photo2 {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+    order: 2;
+    height: auto;
+    right: 0;
+    width: 100%
+}
+
+.photo2 img {
+width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+    
+}
+
+
+    /* Small devices such as large phones*/
 @media screen and (max-width: 640px) {
 
-
+}
