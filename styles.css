@@ -293,7 +293,7 @@ footer p {
 }
 
 .logo {
-  font-size: 2em;
+  font-size: 1.8em;
   padding: 0 0.8em;
 }
 
@@ -302,7 +302,7 @@ footer p {
 }
 
 .nav-link {
-  padding: 0px 10em;
+  padding: 0px 2em;
   font-size: 1em;
 }
 
@@ -332,11 +332,11 @@ p {
 }
 
 .intro {
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .photo1 {
-  width: 100%;
+  width: 30%;
   height: auto;
 }
 
@@ -345,8 +345,7 @@ p {
 }
 
 .about {
-  flex: 2;
-  width: 100%;
+  width: 70%;
   padding: 5%;
 }
 
