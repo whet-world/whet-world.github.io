@@ -305,6 +305,23 @@ footer p {
 /* Small devices such as large phones*/
 @media screen and (max-width: 640px) {
 
+.intro {
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+}
+
+    .about {
+       display: flex;
+flex-wrap: wrap;
+flex-direction: column; 
+    }
+
+    .photo1
+    {
+        width: 100%;
+    }
+    
 .event {
 display: flex;
   flex-wrap: wrap;
@@ -323,6 +340,5 @@ display: flex;
 
 .photo2 img {
  width: 50%;
-}
 }
 }
