@@ -438,31 +438,33 @@ footer p {
 /* Section 2 Column */
 @media screen and (max-width: 970px) {
 .event {
-flex-direction: column; 
+display: flex;
+  flex-direction: column; 
 }
 
 .live-event {
   order: 1;
-    align-items: center;
+  align-items: center;
   flex-direction: column;
   padding: 5% 10%;
-    width: 100%
+  width: 100%;
 }
 
 .event-info {
  align-items: center;
-    order: 2;
+  order: 2;
 }
 
     .button2 {
-  padding: 0.5em 3em 0.5em 3em;
+padding: 0.5em 3em;
+    }
 
 .photo2 {
+  display: flex;
   flex-wrap: nowrap;
-    flex-direction: row;
-    order: 3;
-    height: auto;
-    width: 100%;
+  flex-direction: row;
+  order: 3;
+  width: 100%;
 }
 
 .photo2 img {
