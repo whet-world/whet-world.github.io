@@ -333,6 +333,7 @@ p {
 
 .intro {
       display: flex;
+    flex-wrap: no-wrap;
     flex-direction: row;
     width: 100%;
 }
@@ -351,7 +352,6 @@ p {
 }
 
 .about {
-flex: 1;
     padding: 0 20px;
 }
 
