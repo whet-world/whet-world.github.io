@@ -312,17 +312,17 @@ footer p {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 1.2em;
 margin: 0.8em 0 0.8em 0;
 }
 
 h2 {
-font-size: 1.2em;
+font-size: 1.1em;
     margin: 0.8em 0 0.3em 0;
 }
 
 .strapline {
-  font-size: 1.2em;
+  font-size: 1.1em;
   padding: 0 0 0.5em 0;
 }
 
@@ -357,7 +357,7 @@ p {
     align-items: left;
   flex-direction: column;
   padding: 5%;
-    width: 50%
+    width: 70%
 }
 
 .event-info {
@@ -390,7 +390,7 @@ p {
     max-width: 300px;
     height: auto;
     right: 0;
-    width: 50%
+    width: 30%
 }
 
 .photo2 img {
