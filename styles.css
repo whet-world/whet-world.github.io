@@ -332,6 +332,7 @@ p {
 }
 
 .intro {
+      display: flex;
     flex-direction: row;
     width: 100%;
 }
@@ -339,14 +340,18 @@ p {
 .photo1 {
   width: 30%;
   height: auto;
+    padding: 0;
 }
 
 .photo1 img {
- width: 70%;
+ width: 100%;
+    height: auto;
+    display: block;
 }
 
 .about {
-
+flex: 1;
+    padding: 0 20px;
 }
 
 .event {
