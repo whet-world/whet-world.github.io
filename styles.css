@@ -394,7 +394,10 @@ p {
 }
 
 .photo2 img {
-min-height: 20em;
+width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .social {
