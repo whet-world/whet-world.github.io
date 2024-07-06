@@ -178,7 +178,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   align-items: left;
-  padding: 1em 5em 1em 5em;
+  padding: 0 10%;
   width: 60%;
   height: auto;
 }
