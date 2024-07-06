@@ -333,10 +333,11 @@ p {
 
 .intro {
     flex-direction: row;
+    width: 60%;
 }
 
 .photo1 {
-  width: 30%;
+  width: 40%;
   height: auto;
 }
 
@@ -477,6 +478,6 @@ width: 50%;
 
 
     /* Small devices such as large phones*/
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 750px) {
 
 }
