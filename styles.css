@@ -222,14 +222,20 @@ p {
   text-align: center;
 }
 
-.social a {
-  color: #000;
-}
-
 .social {
   background-color: #eaff67;
   color: #000;
   padding: 2em;
+}
+
+.social a {
+  color: #000;
+    text-decoration: underline;
+}
+
+.social a:hover {
+  color: #000;
+    text-decoration: none;
 }
 
 footer {
