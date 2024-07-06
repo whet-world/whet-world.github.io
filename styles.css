@@ -144,15 +144,15 @@ p {
 }
 
 .photo1 {
-  flex: 1;
-  width: 15%;
+  flex: 1 1 15%;
   box-sizing: border-box;
   min-height: 250px;
   background-color: #fff;
+  padding: 10px;
 }
 
 .photo1 img {
-  width: 100%;
+ max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
