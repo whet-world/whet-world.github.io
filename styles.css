@@ -357,7 +357,8 @@ p {
 }
 
 .live-event {
-  align-items: left;
+  order: 1;
+    align-items: left;
   flex-direction: column;
   padding: 5%;
   width: 100%;
@@ -389,7 +390,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  flex: 1;
+    order: 2;
   width: 100%;
 }
 
