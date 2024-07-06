@@ -479,5 +479,24 @@ width: 50%;
 
     /* Small devices such as large phones*/
 @media screen and (max-width: 750px) {
+h1 {
+  font-size: 1em;
+margin: 0.8em 0 0.8em 0;
+}
 
+h2 {
+font-size: 0.8em;
+    margin: 0.8em 0 0.3em 0;
+}
+
+.strapline {
+  font-size: 0.8em;
+  padding: 0 0 0.5em 0;
+}
+
+p {
+  font-size: 0.6em;
+  margin: 0 0 0.8em 0;
+}
+    
 }
