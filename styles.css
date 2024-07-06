@@ -177,10 +177,9 @@ p {
 .live-event {
   display: flex;
   flex-wrap: wrap;
-flex-direction: column;
   align-items: left;
   padding: 1em 5em 1em 5em;
-  width: 50%;
+  width: 60%;
   height: auto;
 }
 
@@ -193,7 +192,6 @@ flex-direction: column;
   border-radius: 50px;
   border: none;
   margin: 1em 0px 0px 0px;
-    display: inline-block;
 }
 
 .button2 a {
