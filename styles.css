@@ -331,31 +331,6 @@ p {
   margin: 0 0 0.8em 0;
 }
 
-.intro {
-      display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
-    width: 100%;
-    align-items: center;
-}
-
-.photo1 {
-  width: 30%;
-  height: auto;
-    padding: 0;
-    max-width: 30%;
-}
-
-.photo1 img {
- width: 100%;
-    height: auto;
-    display: block;
-}
-
-.about {
-    padding: 0 10%;
-}
-
 .event {
 
 }
