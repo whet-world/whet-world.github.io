@@ -387,7 +387,8 @@ p {
   flex-wrap: wrap;
   flex-direction: column;
     order: 2;
-    max-height: 300px;
+    max-width: 300px;
+    height: auto;
 }
 
 .photo2 img {
@@ -395,7 +396,7 @@ p {
 }
 
 .social {
-    font-size: 0.8em;
+    font-size: 1em;
   text-align: center;
   padding: 1.5em 3em 0.8em 3em;
 }
@@ -408,7 +409,7 @@ footer {
 }
 
 footer p {
-  font-size: 0.8em;
+  font-size: 1em;
   margin: 0 0 2em 0;
 }
 
