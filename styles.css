@@ -127,7 +127,7 @@ font-size: 1.3em;
 .strapline {
   font-size: 1.4em;
   font-family: 'bifocalsregular', Arial, sans-serif;
-  padding: 0 0 0.5em 0;
+  padding: 0.5em 0 0 0;
 }
 
 p {
