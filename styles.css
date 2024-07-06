@@ -521,5 +521,19 @@ p {
   font-size: 0.6em;
   margin: 0 0 0.8em 0;
 }
+
+    .photo2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  order: 3;
+  width: 100%;
+}
+
+.photo2 img {
+width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
     
 }
