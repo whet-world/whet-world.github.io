@@ -284,3 +284,45 @@ footer p {
   text-align: center;
   color: #fff;
 }
+
+/* Medium devices such as tablets*/
+@media screen and (max-width: 900px) {
+
+.photo2 {
+  display: flex;
+  flex-wrap: no-wrap;
+  flex-direction: row;
+  flex: 1;
+  width: 100%;
+  height: auto;
+}
+
+.photo2 img {
+ width: 50%;
+}
+}
+
+/* Small devices such as large phones*/
+@media screen and (max-width: 640px) {
+
+.event {
+display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+    width: 100%;
+}
+    
+.photo2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+  height: auto;
+}
+
+.photo2 img {
+ width: 50%;
+}
+}
+}
