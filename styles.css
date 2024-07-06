@@ -253,17 +253,13 @@ footer p {
 }
 
 .footer-nav a {
-  color: #fff;
+  color: #eaff67;
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1em;
   margin: 3em;
 }
 
 .footer-nav a:hover {
-  color: #eaff67;
-  font-family: 'bifocalsregular', Arial, sans-serif;
-  font-size: 1em;
-  margin: 3em;
   text-decoration: underline;
   transition: 0.7s ease;
 }
