@@ -171,6 +171,11 @@ box-sizing: border-box;
   padding: 5% 5%;
 }
 
+tips-text h2 {
+color: #2E24A8;
+    font-size: 1.2em;
+}
+
 .tips-text p {
 font-size: 1em;
     padding: 0 0 0.5em 0;
