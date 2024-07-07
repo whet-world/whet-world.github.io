@@ -824,11 +824,11 @@ width: 100%;
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding: 10% 10%; /* Adjust padding for sufficient space */
-    margin: 3em 0; /* Ensure enough margin to separate from other content */
-    border: 1px solid #ccc;
+    padding: 10% 10%;
+    margin: 3em 0;
+    border: none;
     border-radius: 10px;
-    overflow-y: auto; /* Add scrollbar if content exceeds available height */
+    overflow-y: auto;
   }
 
     .social {
