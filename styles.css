@@ -41,6 +41,13 @@
     left: 0;
   }
 
+.burger {
+  color: #2E24A8;
+  font-size: 1.5em;
+  position: fixed;
+  right: 15%;
+}
+
 header {
   display: flex;
   justify-content: space-between;
