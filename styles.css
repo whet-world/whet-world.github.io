@@ -461,12 +461,12 @@ align-items: center;
 display:flex;
         flex-wrap: wrap;
         flex-direction: column;
+        width: 40%;
     }
 
     footer {
     flex-wrap: wrap;
   flex-direction: column;
-  width: 50%;
   font-size: 0.8em;
 align-items: center;
 }
