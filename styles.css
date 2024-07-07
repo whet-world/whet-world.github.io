@@ -23,7 +23,7 @@
 }
 
 :focus-visible form {
-
+border: 8px solid #008545;
 }
 
 .skip {
