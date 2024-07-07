@@ -275,6 +275,11 @@ font-size: 1em;
 
 .contact-form h1 {
 margin: 1em 0 0 0;
+    font-size: 1.4em;
+}
+
+.contact-form p {
+font-size: 1.2em;
 }
 
 .contact-form form {
