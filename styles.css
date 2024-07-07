@@ -41,7 +41,7 @@
     left: 0;
   }
 
-.overlay {
+#MyNav {
     display:none;}
 
 .burger {
@@ -517,7 +517,7 @@ footer p {
   padding: 1em 0.5em;
 }
 
-    .overlay {
+    #MyNav {
         display: block;
     }
 
