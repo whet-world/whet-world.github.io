@@ -523,9 +523,10 @@ flex-direction: column;
         text-align: center;
         font-size: 1rem;
   background-color: #eaff67;
-  padding: 0.3em 1em;
+  padding: 0.3em 2em;
   border-radius: 50px;
   border: 1.5px solid black;
+        margin-bottom: 0.5em;
     }
 
     .nav-link a {
@@ -535,7 +536,8 @@ flex-direction: column;
 
     .button1 {
         align-items: center;
-margin: 1em 0 0;
+         padding: 0.3em 2em;
+margin: 0 0 1em 0;
 }
     
     h1 {
