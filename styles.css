@@ -815,6 +815,13 @@ width: 100%;
   margin: 0 auto;
 }
 
+     .contact-form {
+  display: block;
+    width: 100%;
+    padding: 5% 5%;
+    margin: 5% 0 0 0;
+}
+
     .social {
         padding: 5% 10%;}
 
