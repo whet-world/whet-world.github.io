@@ -397,26 +397,28 @@ width: 100%;
   padding: 1.5em 3em 0.8em 3em;
 }
 
-footer {
-    flex-wrap: wrap;
+ footer {
+  display: flex;
   flex-direction: column;
-  padding: 3em 4em 0.8em 4em;
-  font-size: 0.8em;
+  align-items: center;
+  padding: 1em;
+  text-align: center;
 }
 
 footer p {
   font-size: 0.8rem;
-  margin: 0 0 2em 0;
+  margin: 1.5em 0 0.5em 0;
 }
 
 .footer-nav {
-    display: block;
+  width: 100%;
 }
-    
+
 .footer-nav a {
-      display: block;
+  display: block;
   font-size: 0.8rem;
-  margin: 1.8em;
+  margin: 0.5em 0;
+  text-align: center;
 }
 
 .footer-nav a:hover {
@@ -484,7 +486,6 @@ footer p {
 }
 
 .footer-nav {
-    
   width: 100%;
 }
 
