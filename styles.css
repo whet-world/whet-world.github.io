@@ -140,12 +140,12 @@ p {
 .intro {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-start;
   background-color: #fff;
 }
 
 .photo1 {
-  flex: 1 1 100%;
+  flex: 1 1 30%;
   box-sizing: border-box;
   min-height: 250px;
   background-color: #fff;
@@ -161,7 +161,7 @@ p {
 }
 
 .about {
-  flex: 1 1 100%;
+  flex: 1 1 70%;
 box-sizing: border-box;
   padding: 0 1em;
 }
