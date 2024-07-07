@@ -269,7 +269,6 @@ font-size: 1em;
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  justify-content: flex-start;
     width: 100%;
   height: auto;
     padding: 5% 10%;
