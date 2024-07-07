@@ -169,12 +169,37 @@ box-sizing: border-box;
 .tips-text {
     width: 100%;
     box-sizing: border-box;
-  padding: 10% 5%;
+  padding: 5% 5%;
 }
 
 .tips-text p {
 font-size: 1em;
     padding: 0 0 0.5em 0;
+}
+
+.tips-download {
+  color: #fff;
+  font-size: 1.2rem;
+  font-family: 'bifocalsregular', Arial, sans-serif;
+  background-color: #2e24a8;
+  padding: 0.5em 1.5em;
+  border-radius: 50px;
+  border: none;
+  margin: 1em 00px 0px 20px;
+}
+
+.tips-download a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.tips-download a:hover {
+  text-decoration: none;
+}
+
+.tips-download:hover {
+  background-color: #000;
+  transition: 0.7s ease;
 }
 
 .event {
