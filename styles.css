@@ -525,12 +525,12 @@ font-size: 1.2rem;
     }
 
 .strapline {
-  font-size: 0.8rem;
+  font-size: 1rem;
   padding: 0 0 0.5em 0;
 }
 
 p {
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 0 0 0.8em 0;
 }
 
