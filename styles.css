@@ -41,17 +41,6 @@
     left: 0;
   }
 
-#MyNav {
-    display:none;}
-
-.burger {
-  display:none;
-    color: #2E24A8;
-  font-size: 1.5em;
-  position: fixed;
-  right: 15%;
-}
-
 header {
   display: flex;
   justify-content: space-between;
@@ -516,13 +505,6 @@ footer p {
     header {
   padding: 1em 0.5em;
 }
-
-    #MyNav {
-        display: block;
-    }
-
-    .burger {
-        display: block;}
 
 .logo {
   font-size: 1.5rem;
