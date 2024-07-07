@@ -670,7 +670,8 @@ width: 100%;
 }
 
      .tips {
-background-color: #2E24A8;
+display: block;
+         background-color: #2E24A8;
   padding: 2em 2em 1em 2em; 
 }
 
