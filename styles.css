@@ -248,6 +248,7 @@ box-sizing: border-box;
 }
 
 .tips {
+    display: inline-block;
 background-color: #2E24A8;
   padding: 2em 5em 1em 5em; 
 }
@@ -429,6 +430,32 @@ width: 100%;
   margin: 0 auto;
 }
 
+     .tips {
+display: block;
+         align-items: center;
+        text-align: center;
+         background-color: #2E24A8;
+  padding: 2em 2em 1em 2em; 
+}
+
+.tips p {
+    color: #FFF;
+    font-size: 1.2em;
+  text-align: center;
+}
+
+.tips-button {
+  color: #000;
+  font-size: 1.2rem;
+  font-family: 'bifocalsregular', Arial, sans-serif;
+  background-color: #eaff67;
+  padding: 0.5em 1em 0.4em 1em;
+  border-radius: 50px;
+  border: none;
+  margin: 0.3em 0 0 0.5em;
+    text-decoration: none;
+}
+    
 .social {
     font-size: 1rem;
   text-align: center;
@@ -667,32 +694,6 @@ height: auto;
 width: 100%;
   height: auto;
   margin: 0 auto;
-}
-
-     .tips {
-display: block;
-         align-items: center;
-        text-align: center;
-         background-color: #2E24A8;
-  padding: 2em 2em 1em 2em; 
-}
-
-.tips p {
-    color: #FFF;
-    font-size: 1.2em;
-  text-align: center;
-}
-
-.tips-button {
-  color: #000;
-  font-size: 1.2rem;
-  font-family: 'bifocalsregular', Arial, sans-serif;
-  background-color: #eaff67;
-  padding: 0.5em 1em 0.4em 1em;
-  border-radius: 50px;
-  border: none;
-  margin: 0.3em 0 0 0.5em;
-    text-decoration: none;
 }
 
     .social {
