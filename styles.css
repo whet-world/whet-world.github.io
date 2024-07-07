@@ -436,7 +436,12 @@ footer p {
 
 /* Section 2 Column */
 @media screen and (max-width: 970px) {
-.event {
+
+ .strapline {
+padding: 0 0 0.4em 0;
+ }
+    
+    .event {
 display: flex;
   flex-direction: column; 
 }
