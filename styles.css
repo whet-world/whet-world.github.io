@@ -437,6 +437,28 @@ footer p {
 /* Section 2 Column */
 @media screen and (max-width: 970px) {
 
+.photo1 {
+  flex: 1 1 40%;
+  box-sizing: border-box;
+  min-height: 250px;
+  background-color: #fff;
+  padding: 0;
+    margin: 0;
+}
+
+.photo1 img {
+ max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.about {
+  flex: 1 1 60%;
+box-sizing: border-box;
+  padding: 10% 5%;
+}
+    
  .strapline {
 padding: 0 0 0.4em 0;
  }
