@@ -41,8 +41,12 @@
     left: 0;
   }
 
+.overlay {
+    display:none;}
+
 .burger {
-  color: #2E24A8;
+  display:none;
+    color: #2E24A8;
   font-size: 1.5em;
   position: fixed;
   right: 15%;
