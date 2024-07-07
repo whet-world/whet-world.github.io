@@ -22,6 +22,10 @@
  border: 4px solid #008545;
 }
 
+:focus {
+ border: 4px solid #008545;
+}
+
 :focus-visible form {
 border: 8px solid #008545;
 }
