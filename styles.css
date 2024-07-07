@@ -309,9 +309,10 @@ font-size: 1em;
 .contact-form textarea {
   padding: 10px;
   margin: 10px 0;
-  border: 1px solid #000;
+  border: 1px solid #2E24A8;
   border-radius: 10px;
   font-size: 14px;
+    color: #2E24A8;
   width: 100%;
 }
 
