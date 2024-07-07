@@ -517,6 +517,13 @@ footer p {
   padding: 1em 0.5em;
 }
 
+    .overlay {
+        display: block;
+    }
+
+    .burger {
+        display: block;}
+
 .logo {
   font-size: 1.5rem;
   padding: 0 0.5em;
@@ -526,13 +533,11 @@ footer p {
   padding: 0 1em;
 }   
     .nav-link {
-    padding: 0px 1em;
-  font-size: 0.8rem;
+    display: none;
     }
 
     .button1 {
-  font-size: 0.8rem;
-  margin: 0px 00px 0px 5px;
+  display: none;
 }
     
     h1 {
