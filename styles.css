@@ -563,11 +563,11 @@ height: auto;
     .about {
         display: block;
          text-align: center;
-        padding: 10%;
+        padding: 5% 10%;
     }
 
     .event-info {
-        padding: 10% 10%;}
+        padding: 5% 10%;}
 
     .photo2 {
   display: flex;
@@ -583,6 +583,9 @@ width: 100%;
   margin: 0 auto;
 }
 
+    .social {
+        padding: 5% 10%;}
+
     footer {
         display: flex;
         flex-direction: column;
@@ -593,7 +596,7 @@ width: 100%;
 
 footer p {
   font-size: 0.8rem;
-  margin: 0.5em 0 0.5em 0;
+  padding: 5% 10%;;
 }
 
     .footer-nav {
