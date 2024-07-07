@@ -251,6 +251,7 @@ box-sizing: border-box;
     display: inline-block;
     align-items: center;
     text-align: center;
+    width: 100%;
 background-color: #2E24A8;
   padding: 2em 5em 2em 5em; 
 }
