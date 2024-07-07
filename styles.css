@@ -149,6 +149,7 @@ p {
   min-height: 250px;
   background-color: #fff;
   padding: 0;
+    margin: 0;
 }
 
 .photo1 img {
