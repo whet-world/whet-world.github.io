@@ -140,7 +140,7 @@ p {
 .intro {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items: center;
   background-color: #fff;
 }
 
@@ -273,7 +273,8 @@ footer p {
 }
 
 .footer-nav a {
-  color: #eaff67;
+  display: inline-block;
+    color: #eaff67;
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1rem;
     text-decoration: underline;
