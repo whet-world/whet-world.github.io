@@ -508,7 +508,7 @@ footer p {
 }
 
 .logo {
-  font-size: 1.5rem;
+  font-size: 3rem;
   padding: 0 0.5em;
 }
 
@@ -531,6 +531,7 @@ flex-direction: column;
   border: 2px black;}
 
     .button1 {
+        align-items: center;
 margin: 1em 0 0;
 }
     
