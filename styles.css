@@ -294,7 +294,7 @@ footer p {
 }
 
 /* Medium devices such as tablets*/
-@media screen and (max-width: 1160px) {
+@media screen and (max-width: 1170px) {
 
     header {
   padding: 1.5em 0.8em;
@@ -404,7 +404,7 @@ footer {
 }
 
 footer p {
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 0 0 2em 0;
 }
 
@@ -413,8 +413,8 @@ footer p {
 }
     
 .footer-nav a {
-  font-size: 1rem;
-  margin: 2em;
+  font-size: 0.8rem;
+  margin: 1.8em;
 }
 
 .footer-nav a:hover {
