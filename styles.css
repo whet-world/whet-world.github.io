@@ -252,13 +252,14 @@ box-sizing: border-box;
     align-items: center;
     text-align: center;
 background-color: #2E24A8;
-  padding: 2em 5em 1em 5em; 
+  padding: 2em 5em 2em 5em; 
 }
 
 .tips p {
     color: #FFF;
     font-size: 1.2em;
   text-align: center;
+    padding: 0 0 0.5em 0;
 }
 
 .tips-button {
