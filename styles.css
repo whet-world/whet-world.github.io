@@ -166,6 +166,14 @@ box-sizing: border-box;
   padding: 10% 5%;
 }
 
+.tips-text {
+    width: 100%;
+}
+
+.tips-text p {
+font-size: 1em;
+}
+
 .event {
    display: flex;
   flex-wrap: no-wrap;
