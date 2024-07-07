@@ -824,6 +824,18 @@ width: 100%;
   margin: 0 auto;
 }
 
+     .contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10% 10%; /* Adjust padding for sufficient space */
+    margin: 3em 0; /* Ensure enough margin to separate from other content */
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow-y: auto; /* Add scrollbar if content exceeds available height */
+  }
+
     .social {
         padding: 5% 10%;}
 
