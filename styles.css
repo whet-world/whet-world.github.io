@@ -270,7 +270,9 @@ font-size: 1em;
   flex-direction: column;
   align-items: stretch;
   justify-content: flex-start;
-  height: 100%;
+    width: 100%;
+  height: auto;
+    padding: 5% 10%;
 }
 
 .contact-form form {
