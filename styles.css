@@ -309,18 +309,18 @@ font-size: 1em;
 }
 
 .contact-form button {
-  padding: 10px 20px;
+  padding: 0.5em 1.5em;
   background-color: #2E24A8;
   color: #fff;
     font-family: 'Bifocals', Arial, sans-serif;
   border: none;
-  border-radius: 10px;
+  border-radius: 50px;
   font-size: 16px;
   cursor: pointer;
 }
 
 .contact-form button:hover {
-  background-color: #0056b3;
+  background-color: #000;
 }
 
 .social {
