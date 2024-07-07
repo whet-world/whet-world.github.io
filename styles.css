@@ -277,6 +277,49 @@ font-size: 1em;
   flex: 1;
   display: flex;
   flex-direction: column;
+      font-family: 'Bifocals', Arial, sans-serif;
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 20px;
+  border: none;
+    font-family: 'Bifocals', Arial, sans-serif;
+}
+
+.contact-form label {
+  margin-bottom: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #000;
+  border-radius: 50px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.contact-form textarea {
+  resize: vertical;
+}
+
+.contact-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+    font-family: 'Bifocals', Arial, sans-serif;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #0056b3;
 }
 
 .social {
