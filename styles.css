@@ -503,6 +503,7 @@ footer p {
 @media screen and (max-width: 750px) {
 
     header {
+        display: block;
   padding: 1em 0.5em;
 }
 
@@ -512,10 +513,13 @@ footer p {
 }
 
 .navbar {
+    display: block;
   padding: 0 1em;
 }   
     .nav-link {
+        display: block;
     display: none;
+        text-align: center;
     }
 
     .button1 {
