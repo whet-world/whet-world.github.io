@@ -274,11 +274,8 @@ font-size: 1em;
     margin: 0;
 }
 
-.contact-form form {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-      font-family: 'Bifocals', Arial, sans-serif;
+.contact-form h1 {
+margin: 1em 0 0 0;
 }
 
 .contact-form form {
