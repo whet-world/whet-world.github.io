@@ -119,19 +119,19 @@ margin: 1em 0 1em 0;
 }
 
 h2 {
-font-size: 1.3rem;
+font-size: 1.4rem;
   font-family: 'bifocalsregular', Arial, sans-serif;
-    margin: 1em 0 0.5em 0;
+    margin: 0;
 }
 
 .strapline {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-family: 'bifocalsregular', Arial, sans-serif;
-  padding: 0.5em 0 0 0;
+  padding: 1em 0 0 0;
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: 'bifocalsregular', Arial, sans-serif;
   margin: 1em 0 0 0;
 }
@@ -265,11 +265,14 @@ footer p {
   margin: 0 0 3em 0;
 }
 
+.footer-nav {
+    margin: 0;
+}
+
 .footer-nav a {
   color: #eaff67;
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1rem;
-  margin: 3em;
     text-decoration: underline;
 }
 
