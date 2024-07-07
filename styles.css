@@ -823,6 +823,7 @@ width: 100%;
      .contact-form {
     display: flex;
     flex-direction: column;
+         align-content: flex-end;
     width: 100%;
     padding: 10% 10%;
     margin: 3em 0;
