@@ -373,19 +373,19 @@ background-color: #2E24A8;
 }
 
 .tips-button {
-  color: #000;
+  color: #fff;
   font-size: 1.2rem;
   font-family: 'bifocalsregular', Arial, sans-serif;
-  background-color: #eaff67;
+  background-color: #2E24A8;
   padding: 0.5em 1.5em 0.4em 1.5em;
   border-radius: 50px;
   border: none;
-  margin: 2em 0 0 0em;
+  margin: 1em 0 0 0em;
     text-decoration: none;
 }
 
 .tips-button a {
-  color: #000;
+  color: #fff;
   text-decoration: none!important;
 }
 
@@ -394,7 +394,7 @@ background-color: #2E24A8;
 }
 
 .tips-button:hover {
-  background-color: #fff;
+  background-color: #000;
   transition: 0.7s ease;
 }
 
