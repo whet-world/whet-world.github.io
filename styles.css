@@ -249,7 +249,7 @@ box-sizing: border-box;
 
 .tips {
 background-color: #2E24A8;
-  padding: 2em 5em 2em 5em; 
+  padding: 2em 5em 1.8em 5em; 
 }
 
 .tips p {
@@ -271,7 +271,7 @@ background-color: #2E24A8;
 
 .tips-button a {
   color: #000;
-  text-decoration: none;
+  text-decoration: none!important;
 }
 
 .tips-button a:hover {
