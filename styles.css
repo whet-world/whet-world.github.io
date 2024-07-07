@@ -737,6 +737,7 @@ flex-direction: column;
   padding: 0.3em 2em;
   border-radius: 50px;
   border: 1.5px solid black;
+        margin-bottom: 0.3em;
     }
 
     .nav-link a {
