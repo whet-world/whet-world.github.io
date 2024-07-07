@@ -824,9 +824,9 @@ width: 100%;
      .contact-form {
     display: flex;
     flex-direction: column;
-         align-content: flex-end;
+    align-content: flex-end;
     width: 100%;
-    padding: 10% 10%;
+    padding: 20% 10%;
     margin: 10% 0;
     border: none;
     border-radius: 10px;
