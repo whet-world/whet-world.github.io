@@ -168,10 +168,12 @@ box-sizing: border-box;
 
 .tips-text {
     width: 100%;
+    box-sizing: border-box;
+  padding: 10% 5%;
 }
 
 .tips-text p {
-font-size: 1em;
+font-size: 0.8em;
 }
 
 .event {
