@@ -721,7 +721,7 @@ footer p {
 .logo {
   font-size: 2rem;
   padding: 0 0.5em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 .navbar {
@@ -827,7 +827,7 @@ width: 100%;
          align-content: flex-end;
     width: 100%;
     padding: 10% 10%;
-    margin: 3em 0;
+    margin: 10% 0;
     border: none;
     border-radius: 10px;
     overflow-y: auto;
