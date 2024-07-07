@@ -567,7 +567,8 @@ height: auto;
     }
 
     .live-event{
-        padding: 5% 10%;}
+        padding: 5% 10%;
+    text-align: center;}
 
     .event-info {
         text-align: center;
