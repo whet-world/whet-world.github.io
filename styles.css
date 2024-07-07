@@ -546,6 +546,8 @@ p {
 
     .intro {
 display: block;
+        align-items: center;
+        text-align: center;
 }
 
     .photo1 {
@@ -560,8 +562,12 @@ height: auto;
 
     .about {
         display: block;
-        padding: 5%;
+         text-align: center;
+        padding: 10%;
     }
+
+    .event-info {
+        padding: 10% 10%;}
 
     .photo2 {
   display: flex;
