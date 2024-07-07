@@ -559,12 +559,19 @@ width: 100%;
     footer {
         display: inline-block;
         align-items: center;
+        padding: 1em 1em;
     }
 
 footer p {
   font-size: 0.8rem;
   margin: 0 0 1em 0;
 }
+
+    .footer-nav {
+        display: inline-block;
+        align-items: center;
+        width: 80%;
+    }
     
     .footer-nav a {
   font-size: 0.8rem;
