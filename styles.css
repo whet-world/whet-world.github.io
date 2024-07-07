@@ -231,9 +231,9 @@ p {
 .social {
   background-color: #eaff67;
   color: #000;
-    font-size: 1rem;
+    font-size: 18px;
   text-align: center;
-  padding: 2em 5em 1em 5em;
+  padding: 2em 5em 1.2em 5em;
 }
 
 .social a {
