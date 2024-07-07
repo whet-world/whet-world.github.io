@@ -426,7 +426,7 @@ footer p {
 }
 
 .copyright {
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   margin: 3em 0 0 0;
   padding: 0em 0px 0px 0px;
 }
@@ -536,7 +536,7 @@ flex-direction: column;
 
     .button1 {
         align-items: center;
-         padding: 0.3em 2em;
+         padding: 0.5em 2em;
 margin: 0 0 1em 0;
 }
     
