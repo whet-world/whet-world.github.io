@@ -253,7 +253,7 @@ footer {
   flex-direction: column;
   align-items: center;
   background-color: #292929;
-  padding: 4em 5em 1em 5em;
+  padding: 4em 5em 2em 5em;
   color: #fff;
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1rem;
@@ -265,7 +265,7 @@ footer p {
   font-family: 'bifocalsregular', Arial, sans-serif;
   text-align: center;
   color: #fff;
-  margin: 0 0 3em 0;
+  margin: 0 0 0 0;
 }
 
 .footer-nav {
@@ -277,6 +277,7 @@ footer p {
   font-family: 'bifocalsregular', Arial, sans-serif;
   font-size: 1rem;
     text-decoration: underline;
+    margin: 0em 1em;
 }
 
 .footer-nav a:hover {
