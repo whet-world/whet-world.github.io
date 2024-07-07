@@ -323,22 +323,22 @@ footer p {
 }
 
 h1 {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
 margin: 0.8em 0 0.8em 0;
 }
 
 h2 {
-font-size: 1rem;
+font-size: 1.2rem;
     margin: 0.8em 0 0.3em 0;
 }
 
 .strapline {
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 0 0 0.5em 0;
 }
 
 p {
-  font-size: 0.8rem;
+  font-size: 1rem;
   margin: 0 0 0.8em 0;
 }
 
@@ -515,17 +515,24 @@ align-items: center;
 }
     
     h1 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 margin: 0.8em 0 0.8em 0;
 }
 
 h2 {
-font-size: 1.2rem;
+font-size: 1rem;
     margin: 0.8em 0 0.3em 0;
 }
 
     .strapline {
-        font-size: 1.2rem;}
+  font-size: 1rem;
+  padding: 0 0 0.5em 0;
+}
+
+p {
+  font-size: 0.8rem;
+  margin: 0 0 0.8em 0;
+}
 
     .intro {
 
@@ -538,16 +545,6 @@ font-size: 1.2rem;
     .about {
         padding: 5%;
     }
-
-.strapline {
-  font-size: 1rem;
-  padding: 0 0 0.5em 0;
-}
-
-p {
-  font-size: 0.8rem;
-  margin: 0 0 0.8em 0;
-}
 
     .photo2 {
   display: flex;
