@@ -566,8 +566,12 @@ height: auto;
         padding: 5% 10%;
     }
 
-    .event-info {
+    .live-event{
         padding: 5% 10%;}
+
+    .event-info {
+        text-align: center;
+        }
 
     .photo2 {
   display: flex;
