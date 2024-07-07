@@ -669,6 +669,29 @@ width: 100%;
   margin: 0 auto;
 }
 
+     .tips {
+background-color: #2E24A8;
+  padding: 2em 2em 1em 2em; 
+}
+
+.tips p {
+    color: #FFF;
+    font-size: 0.8em;
+  text-align: center;
+}
+
+.tips-button {
+  color: #000;
+  font-size: 0.8rem;
+  font-family: 'bifocalsregular', Arial, sans-serif;
+  background-color: #eaff67;
+  padding: 0.5em 1em 0.4em 1em;
+  border-radius: 50px;
+  border: none;
+  margin: 0.3em 0 0 0.5em;
+    text-decoration: none;
+}
+
     .social {
         padding: 5% 10%;}
 
