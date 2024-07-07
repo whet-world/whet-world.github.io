@@ -247,6 +247,40 @@ box-sizing: border-box;
     text-decoration: none;
 }
 
+.tips {
+background-color: #2E24A8;
+   color: #FFF;
+    font-size: 16px;
+  text-align: center;
+  padding: 1.8em 5em 2em 5em; 
+}
+
+.tips-button {
+  color: #000;
+  font-size: 1.2rem;
+  font-family: 'bifocalsregular', Arial, sans-serif;
+  background-color: #eaff67;
+  padding: 0.5em 1.5em 0.4em 1.5em;
+  border-radius: 50px;
+  border: none;
+  margin: 0.3em 0 0 0;
+}
+
+.tips-button a {
+  color: #000;
+  text-decoration: none;
+}
+
+.tips-button a:hover {
+  text-decoration: none;
+}
+
+.tips-button:hover {
+  background-color: #fff;
+  transition: 0.7s ease;
+}
+
+
 footer {
   display: flex;
   flex-direction: column;
