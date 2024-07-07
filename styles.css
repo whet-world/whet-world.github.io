@@ -456,11 +456,19 @@ width: 50%;
   margin: 0 auto;
 }
 
+    .footer-nav {
+align-items: center;
+display:flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
     footer {
     flex-wrap: wrap;
   flex-direction: column;
   width: 50%;
   font-size: 0.8em;
+align-items: center;
 }
     
 }
