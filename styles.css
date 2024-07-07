@@ -265,6 +265,20 @@ font-size: 1em;
  height: 30em;
 }
 
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 100%;
+}
+
+.contact-form form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
 .social {
   background-color: #eaff67;
   color: #000;
