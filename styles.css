@@ -275,7 +275,7 @@ font-size: 1em;
 }
 
 intro-text {
-    margin: 1em 0;
+    margin: 10% 0;
 }
 
 .contact-form h1 {
@@ -821,12 +821,17 @@ width: 100%;
   margin: 0 auto;
 }
 
+     .intro-text
+     {
+         margin: 10;
+     }
+     
      .contact-form {
     display: flex;
     flex-direction: column;
     align-content: flex-end;
     width: 100%;
-    padding: 20% 10%;
+    padding: 10% 10%;
     margin: 10% 0;
     border: none;
     border-radius: 10px;
