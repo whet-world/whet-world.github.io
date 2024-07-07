@@ -67,9 +67,12 @@ header {
 
 .navbar {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   padding: 0 3em;
+}
+
+.navbar nav {
+    display: flex;
 }
 
 .nav-link {
