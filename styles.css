@@ -518,12 +518,11 @@ footer p {
 }   
     .nav-link {
         display: block;
-    display: none;
         text-align: center;
     }
 
     .button1 {
-  display: none;
+
 }
     
     h1 {
