@@ -545,14 +545,21 @@ p {
 }
 
     .intro {
-
+display: block;
 }
 
     .photo1 {
+width: 100%;
+height: auto;
+    }
 
+    .photo1 img {
+        width: 100%;
+        height: auto;
     }
 
     .about {
+        display: block;
         padding: 5%;
     }
 
